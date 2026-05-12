@@ -7,4 +7,4 @@ Using Natural Language Processing, `nltk` and Machine Learning to classify comme
 - Threat 
 - Obscene
 - Insult
-- Identity Hategit ad
+- Identity Hate
